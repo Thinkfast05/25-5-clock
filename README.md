@@ -1,3 +1,4 @@
+This is the fifth and last project for the FCC frontend development certification.
 # TypeScript 25+5 Timer App
 
 This repository houses a TypeScript-based 25+5 Timer App, a productivity tool designed to help users manage their work or study sessions effectively using the Pomodoro Technique. The app allows users to set customizable timers for both work and break intervals, enhancing focus and productivity.
